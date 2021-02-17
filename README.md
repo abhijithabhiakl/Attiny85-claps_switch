@@ -2,4 +2,4 @@
 System responds to double claps for turning on/off 
 literally any circuit you want with 
 attiny85 microcontroller,
->>>Documentation and Realisation pending
+>Documentation and Realisation pending
